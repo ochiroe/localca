@@ -11,3 +11,10 @@ This repo contains two scripts.
     ```
     createCert.sh
     ```
+    
+    ## By default values:
+    - Expired days: 1096
+    - Country: MN
+    - Location: Ulaanbaatar
+ 
+    
